@@ -1,2 +1,2 @@
 # Paytm-Clone
-This is a Paytm Website Clone
+Paytm Website Clone using Tailwind Css
